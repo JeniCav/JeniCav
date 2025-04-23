@@ -28,7 +28,7 @@
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://www.google.com/search?sca_esv=8ffc4cc3ad7d481a&q=gif+python&udm=2&fbs=ABzOT_BYhiZpMrUAF0c9tORwPGlsjfkTCQbVbkeDjnTQtijddBji9NlWFbRgtIhh9CBGrAVc9g7qScOWQqEc2VLWZUvSltbqp7-P26IhRDA8xQJoNNed3Nr96xlGYxntSSRu5b6nTto1-zPH5Blsqu1uXy7wSOkVL_h7q3wMQ9PFUOzmMyCdL2MWgHBAQC5lX17o3FWMT7gYlkVIl3KaK0cD1ZjwYAxXyg&sa=X&ved=2ahUKEwj897L12u6MAxVaLrkGHTRFBVUQtKgLegQIExAB&biw=1366&bih=639&dpr=1#vhid=2Z7kLTSaAroKkM&vssid=mosaic">
+  <img align="center" alt="Python" height="40" width="40" src="https://https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif">
   <img align="center" alt="SQL" height="40" width="40" src="https://media.giphy.com/media/3o7b7ZaQat8ckcCgn6/giphy.gif" />
   <img align="center" alt="Java" height="40" width="40" src="https://media.giphy.com/media/fdHL32W0NK7fC/giphy.gif" />
   <img align="center" alt="HTML" height="40" width="40" src="https://media.giphy.com/media/26gs5eLSFc3hAxj9S/giphy.gif">
