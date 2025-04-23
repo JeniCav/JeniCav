@@ -28,11 +28,11 @@
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://media.giphy.com/media/3o6Ztq1OTNANt6eFJ6/giphy.gif">
-  <img align="center" alt="SQL" height="40" width="40" src="https://media.giphy.com/media/l0MYyI2v9rTbw3Rnk/giphy.gif" />
-  <img align="center" alt="Java" height="40" width="40" src="https://media.giphy.com/media/l2JdUyS5Etr14k04M/giphy.gif" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://media.giphy.com/media/l3vRk1D2X5rMuL8xS/giphy.gif">
-  <img align="center" alt="CSS" height="40" width="40" src="https://media.giphy.com/media/3oKIPwS4FGEMHgIhO0/giphy.gif">
+  <img align="center" alt="Python" height="40" width="40" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif">
+  <img align="center" alt="SQL" height="40" width="40" src="https://media.giphy.com/media/3o7b7ZaQat8ckcCgn6/giphy.gif" />
+  <img align="center" alt="Java" height="40" width="40" src="https://media.giphy.com/media/fdHL32W0NK7fC/giphy.gif" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://media.giphy.com/media/26gs5eLSFc3hAxj9S/giphy.gif">
+  <img align="center" alt="CSS" height="40" width="40" src="https://media.giphy.com/media/26FxfLJhPpAWJE5lK/giphy.gif">
 </div>
 
   ---
