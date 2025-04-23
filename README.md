@@ -16,9 +16,12 @@
 
 - 🎓 Estudante apaixonada por **tecnologia, livros e filmes**  
 - 🐍 Estudando e praticando **Python** e **SQL**
-- ☕ Tenho conhecimento em **Java**, **HTML** e **CSS**
-- 🤝 Atualmente estagiando como **Suporte TI**
+- 🌐 Conhecimento em **Python**, **SQL**, **HTML** e **CSS**
+- 💼 Estagiando como **Suporte TI** na *Faculdade Santa Helena*
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+apaixonada+por+tecnologia%2C+livros+e+filmes%21;Estudando+Python+e+SQL%21;Conhecimento+em+Python%2C+SQL%2C+HTML+e+CSS%21;Estagiando+como+Suporte+TI+na+Faculdade+Santa+Helena&center=true&size=25&width=800&height=45" />
+</p>
 ---
 
 ### 🚀 Tecnologias que estou aprendendo:
@@ -31,6 +34,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div align="center">
+  
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeniCav&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeniCav&layout=compact&theme=radical"/>
 </div>
